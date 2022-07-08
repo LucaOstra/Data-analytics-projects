@@ -1,0 +1,110 @@
+City,Country,Continent,Ranking2019,Ranking2020,NumofSC,Scpopulationpercent,UrbanPopulationPercent,Category
+Singapore,Singapore,Asia,1,1,1,98.86791937,100,1
+Helsinki,Finland,Europe,8,2,1,11.4404215,85.446,1
+Zurich,Switzerland,Europe,2,3,2,7.017158623,73.849,1
+Auckland,New Zealand,Oceania,6,4,1,33.2784383,86.615,1
+Oslo,Norway,Europe,3,5,1,11.86060836,82.616,1
+Copenhagen,Denmark,Europe,5,6,1,10.3618382,87.994,1
+Geneva,Switzerland,Europe,4,7,2,7.017158623,73.849,1
+Taipei City,China,Asia,7,8,12,11.80956778,60.308,1
+Amsterdam,Netherlands,Europe,11,9,3,13.18840944,91.876,1
+New York,United States,North America,38,10,10,6.719713751,82.459,1
+Munich,Germany,Europe,0,11,5,9.759499246,77.376,1
+Washington D.C.,United States,North America,31,12,10,6.719713751,82.459,1
+Dusseldorf,Germany,Europe,10,13,5,9.759499246,77.376,1
+Brisbane,Australia,Oceania,27,14,3,49.06617172,86.124,1
+London,United Kingdom,Europe,20,15,4,16.46785288,83.652,1
+Stockholm,Sweden,Europe,25,16,2,15.03960497,87.708,1
+Manchester,United Kingdom,Europe,0,17,4,16.46785288,83.652,1
+Sydney,Australia,Oceania,14,18,3,49.06617172,86.124,1
+Vancouver,Canada,North America,13,19,3,14.32191979,81.482,1
+Melbourne,Australia,Oceania,24,20,3,49.06617172,86.124,1
+Montreal,Canada,North America,16,21,3,14.32191979,81.482,1
+Hamburg,Germany,Europe,0,22,5,9.759499246,77.376,1
+Newcastle,United Kingdom,Europe,0,23,4,16.46785288,83.652,1
+Bilbao,Spain,Europe,9,24,4,12.42329744,80.565,1
+Vienna,Austria,Europe,17,25,1,21.36280507,58.515,1
+Los Angeles,United States,North America,35,26,10,6.719713751,82.459,1
+San Francisco,United States,North America,12,27,10,6.719713751,82.459,1
+The Hague,Netherlands,Europe,29,28,3,13.18840944,91.876,1
+Rotterdam,Netherlands,Europe,36,29,3,13.18840944,91.876,2
+Toronto,Canada,North America,15,30,3,14.32191979,81.482,2
+Gothenburg,Sweden,Europe,28,31,2,15.03960497,87.708,2
+Hong Kong,China,Asia,37,32,12,11.80956778,60.308,2
+Hanover,Germany,Europe,26,33,5,9.759499246,77.376,2
+Dublin,Ireland,Europe,30,34,1,11.02694585,63.405,2
+Denver,United States,North America,33,35,10,6.719713751,82.459,2
+Boston,United States,North America,32,36,10,6.719713751,82.459,2
+Seattle,United States,North America,34,37,10,6.719713751,82.459,2
+Berlin,Germany,Europe,39,38,5,9.759499246,77.376,2
+Phoenix,United States,North America,,39,10,6.719713751,82.459,2
+Birmingham,United Kingdom,Europe,52,40,4,16.46785288,83.652,2
+Chicago,United States,North America,53,41,10,6.719713751,82.459,2
+Abu Dhabi,United Arab Emirates,Asia,56,42,2,48.93288243,86.789,2
+Dubai,United Arab Emirates,Asia,45,43,2,48.93288243,86.789,2
+Prague,Czech Republic,Europe,19,44,1,12.26589154,73.921,2
+Madrid,Spain,Europe,21,45,4,12.42329744,80.565,2
+Busan,"Korea, Rep.",Asia,50,46,1,6.568167085,81.43,2
+Seoul,"Korea, Rep. ",Asia,47,47,1,18.88541218,81.43,2
+Zaragoza,Spain,Europe,49,48,4,12.42329744,80.565,2
+Barcelona,Spain,Europe,48,49,4,12.42329744,80.565,2
+Tel Aviv,Israel,Asia,46,50,1,4.813949636,92.501,2
+Lyon,France,Europe,23,51,3,5.257942707,80.709,2
+Philadelphia,United States,North America,54,52,10,6.719713751,82.459,2
+Riyadh,Saudi Arabia,Asia,71,53,1,15.13925503,84.065,2
+Kuala Lumpur,Malaysia,Asia,70,54,1,5.658879312,76.607,2
+Warsaw,Poland,Europe,61,55,2,6.66838226,60.037,4
+Moscow,Russian Federation,Europe,72,56,2,11.71071108,74.587,3
+Ankara,Turkey,Asia,74,57,1,6.832106976,75.63,3
+Krakow,Poland,Europe,69,58,2,6.66838226,60.037,3
+Tallinn,Estonia,Europe,0,59,1,32.14654201,69.051,3
+Brussels,Belgium,Europe,64,60,1,1.517828389,98.041,3
+Paris,France,Europe,51,61,3,5.257942707,80.709,3
+Zhuhai,China,Asia,40,62,12,11.80956778,60.308,3
+Tianjin,China,Asia,41,63,12,11.80956778,60.308,3
+Chongqing,China,Asia,42,64,12,11.80956778,60.308,3
+Hangzhou,China,Asia,44,65,12,11.80956778,60.308,3
+Nanjing,China,Asia,55,66,12,11.80956778,60.308,3
+Shenzhen,China,Asia,43,67,12,11.80956778,60.308,3
+Guangzhou,China,Asia,57,68,12,11.80956778,60.308,3
+Chengdu,China,Asia,58,69,12,11.80956778,60.308,3
+Bologna,Italy,Europe,18,70,3,7.723820495,70.736,3
+Bangkok,Thailand,Asia,75,71,1,11.89361709,50.692,3
+Medellin,Colombia,South America,91,72,2,19.54729614,81.104,3
+St. Petersburg,Russian Federation,Europe,73,73,2,11.71071108,74.587,3
+Milan,Italy,Europe,22,74,3,7.723820495,70.736,3
+Lisbon,Portugal,Europe,76,75,1,4.906718796,65.764,3
+Bratislava,Slovak Republic,Europe,84,76,1,7.781748457,66.095,3
+Budapest,Hungary,Europe,83,77,1,17.93327924,71.644,3
+Marseille,France,Europe,,78,3,5.257942707,80.709,3
+Tokyo,Japan,Asia,62,79,2,9.447774277,91.698,3
+Osaka,Japan,Asia,63,80,2,9.447774277,91.698,3
+Shanghai,China,Asia,59,81,12,11.80956778,60.308,3
+Beijing,China,Asia,60,82,12,11.80956778,60.308,3
+Ho Chi Minh City,Vietnam,Asia,65,83,2,17.67222421,36.628,4
+Hanoi,Vietnam,Asia,66,84,2,17.67222421,36.628,4
+Hyderabad,India,Asia,67,85,4,4.054104227,34.472,4
+New Delhi,India,Asia,68,86,4,4.054104227,34.472,4
+Bucharest,Romania,Europe,85,87,1,9.446795647,54.084,4
+Buenos Aires,Argentina,South America,87,88,1,33.72148272,91.991,4
+Sofia,Bulgaria,Europe,89,89,1,17.71849695,75.347,4
+Mexico City,Mexico,North America,88,90,1,6.940986308,80.444,4
+Santiago,Chile,South America,86,91,1,29.62214876,87.643,4
+Bogota,Colombia,South America,98,92,2,19.54729614,81.104,4
+Mumbai,India,Asia,78,93,4,4.054104227,34.472,4
+Jakarta,Indonesia,Asia,81,94,3,4.820313226,55.985,4
+Bengaluru,India,Asia,79,95,4,4.054104227,34.472,4
+Makassar,Indonesia,Asia,80,96,3,4.820313226,55.985,4
+Medan,Indonesia,Asia,82,97,3,4.820313226,55.985,4
+Kiev,Ukraine,Europe,92,98,1,6.497514554,66.7754178,4
+Athens,Greece,Europe,95,99,1,5.771157432,79.388,4
+Sao Paulo,Brazil,South America,90,100,2,8.765715311,86.824,4
+Rome,Italy,Europe,77,101,3,7.723820495,70.736,4
+Rio de Janeiro,Brazil,South America,96,102,2,8.765715311,86.824,4
+Cape Town,South Africa,Africa,93,103,1,7.718807662,66.856,4
+Manila,Philippines,Asia,94,104,1,1.646370343,47.149,4
+Rabat,Morocco,Africa,101,105,1,1.584313192,62.994,4
+Cairo,"Egypt, Arab Rep.",Africa,99,106,1,9.084744288,42.73,4
+Abuja,Nigeria,Africa,97,107,2,11.06463044,51.157,4
+Nairobi,Kenya,Africa,100,108,1,8.363454864,27.507,4
+Lagos,Nigeria,Africa,102,109,2,11.06463044,51.157,4
