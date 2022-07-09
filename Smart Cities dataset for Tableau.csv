@@ -1,4 +1,4 @@
-City,Country,Continent,Ranking2019,Ranking2020,NumofSC,Scpopulationpercent,UrbanPopulationPercent,Category
+City,Country,Continent,Ranking2019,Ranking2020,NumberofSmartCities,SmartCitiesPopulationPercent,UrbanPopulationPercent,Category
 Singapore,Singapore,Asia,1,1,1,98.86791937,100,1
 Helsinki,Finland,Europe,8,2,1,11.4404215,85.446,1
 Zurich,Switzerland,Europe,2,3,2,7.017158623,73.849,1
