@@ -1,4 +1,4 @@
-# Data science projects
+# Data analytics projects
 
 Population in smart cities is growing, as well as Climate-related challenges. Smart cities are seen to become the "test" new urban environment to tackle with these challenges with the help of digitalisation and big data analysis.  In this 1st part of my project I am focusing on the smart cities vs urban population issue to inentify key macro patterns.  List of smart cities mentioned in the IMD Smart City Index Ranking.
 
